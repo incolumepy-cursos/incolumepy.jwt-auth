@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/realpython/flask-jwt-auth.svg?branch=master)](https://travis-ci.org/realpython/flask-jwt-auth)
 
 ## Quick Start
-
+https://realpython.com/token-based-authentication-with-flask/
 ### Basics
 
 1. Activate a virtualenv
