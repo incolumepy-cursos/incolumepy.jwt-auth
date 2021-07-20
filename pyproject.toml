@@ -17,6 +17,7 @@ Flask-SQLAlchemy = "^2.5.1"
 Flask-Script = "^2.0.6"
 
 [tool.poetry.dev-dependencies]
+coverage = "^5.5"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
